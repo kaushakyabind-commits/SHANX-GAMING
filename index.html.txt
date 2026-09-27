@@ -135,4 +135,6 @@ Add a simple disclaimer that the website provides gaming-related resources and d
 - Make all navigation and interactive elements functional.
 - Use placeholder images/content where necessary so I can replace them later.
 
-The final result should look like a **professional futuristic gaming website**, with **SHANX CHEATZ** clearly visible as the main brand.
+The final result should look like a **professional futuristic gaming website**, with **SHANX CHEATZ** clearly visible as the main brand.theme: jekyll-theme-minimal
+title: Octocat's homepage
+description: Bookmark this to keep an eye on my project updates!
