@@ -1,0 +1,138 @@
+Create a modern, responsive gaming website called **SHANX CHEATZ** using **HTML, CSS, and JavaScript**.
+
+### Website Theme
+- Dark gaming / cyberpunk style
+- Black and dark-gray background
+- Neon green, blue, and purple glowing accents
+- Smooth animations and hover effects
+- Gaming-style fonts and buttons
+- Fully responsive for PC, tablet, and mobile
+- Professional gaming website appearance
+
+### Website Name
+**SHANX CHEATZ**
+
+Add a stylish logo/header with:
+**SHANX CHEATZ**
+and a small subtitle:
+**Gaming • Tools • Community**
+
+### Navigation
+Create a responsive navigation bar with:
+- Home
+- Games
+- Downloads
+- Videos
+- About
+- Contact
+
+Add a mobile hamburger menu using JavaScript.
+
+### Home Page
+Create a large hero section containing:
+
+**SHANX CHEATZ**
+"ENTER THE GAMING ZONE"
+
+Add buttons:
+- Explore Games
+- Watch Videos
+
+Include an animated gaming background with subtle particles/glowing effects.
+
+### Games Section
+Create attractive gaming cards for games such as:
+- Free Fire
+- Minecraft
+- GTA V
+- PUBG
+- Roblox
+
+Each card should contain:
+- Game image placeholder
+- Game name
+- Short description
+- "View Details" button
+
+### Downloads Section
+Create a modern download area for **legitimate game-related files, tools, configs, and resources**.
+
+Each download card should contain:
+- File name
+- Version
+- File size
+- Description
+- Download button
+
+Use placeholder download links that can easily be replaced later.
+
+Do NOT include malware, credential theft, exploits, or other harmful software.
+
+### Videos Section
+Create a gaming video gallery.
+
+Each video card should have:
+- Thumbnail
+- Video title
+- Game name
+- Watch button
+
+Use YouTube embed placeholders where appropriate.
+
+### About Section
+Add:
+
+**About SHANX CHEATZ**
+
+Explain that SHANX CHEATZ is a gaming-focused website for gamers to discover games, gaming resources, videos, and community content.
+
+### Contact Section
+Create a modern contact form with:
+- Name
+- Email
+- Message
+- Send Message button
+
+Add social media placeholders.
+
+### JavaScript Features
+Implement:
+- Mobile navigation menu
+- Smooth scrolling
+- Scroll animations
+- Button hover effects
+- Animated counters/statistics
+- Search/filter for games and downloads
+- Dark gaming UI interactions
+- Back-to-top button
+
+### Extra UI
+Add:
+- Glowing neon borders
+- Animated background particles
+- Gaming-style cards
+- Loading animation
+- Scroll progress bar
+- Toast notification when buttons are clicked
+
+### Footer
+Create a footer containing:
+
+**SHANX CHEATZ © 2026**
+
+Links:
+Home | Games | Downloads | Videos | About | Contact
+
+Add a simple disclaimer that the website provides gaming-related resources and does not distribute malicious software or unauthorized content.
+
+### Code Requirements
+- Use separate `index.html`, `style.css`, and `script.js` files.
+- Write clean, well-organized code.
+- Use semantic HTML5.
+- Make the website fully responsive.
+- Do not use unnecessary frameworks.
+- Add comments explaining important sections.
+- Make all navigation and interactive elements functional.
+- Use placeholder images/content where necessary so I can replace them later.
+
+The final result should look like a **professional futuristic gaming website**, with **SHANX CHEATZ** clearly visible as the main brand.
